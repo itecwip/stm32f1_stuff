@@ -1,0 +1,31 @@
+Le logiciel Gravit (image typon vers g-code pour gravure anglaise sur CNC)
+http://cgrosse1.free.fr/guppy/articles.php?lng=fr&pg=57
+
+http://www.courche.com/index.php?lng=fr
+http://www.courche.com/articles.php?lng=fr&pg=399
+http://tmonnot.free.fr/Fraisage/Mecanique.html
+http://freedom2000.free.fr/CNC_index.html
+http://g.coquery.free.fr/
+http://cnc25.free.fr/machines/guillaume_coquery_v2/dossier_fraise_courroies.pdf
+
+
+Chutes métaux
+http://www.qualichutes.com/catalogue.html
+
+Outils
+http://www.cncfraises.fr
+http://www.technimaniacs.fr/fr/32-moteurs-pas-a-pas
+
+
+https://endless-sphere.com/forums/viewtopic.php?f=30&t=38337&start=150
+https://github.com/casainho/EBike-Smart-Controller/tree/redmapleleaf
+
+CNC
+http://aero-rc.over-blog.com/article-introduction-cnc-48850049.html
+
+Transmission laser
+http://www.g0mrf.com/laser.htm
+http://www.instructables.com/id/Laser-Transceiver/?ALLSTEPS
+http://ronja.twibright.com/
+http://ronja.twibright.com/slides/ronja_wsfii.pdf
+http://heli.xbot.es/wp/?p=27
