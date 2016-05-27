@@ -1,55 +1,83 @@
-Tronçonneuse : MS180 ou MS230
+http://www.swap-europe.com/
+Marque	RACING
+Gamme	Fardin 
+ModÃ¨les	RAC4545PCS 
+TronÃ§onneuse thermique 45 cm3 Racing RAC4545PCS
+Moteur 2 temps, monocylindre, Ã  refroidissement d'air
+CylindrÃ©e : 45 cm3, 2 kW
+Guide Oregon Racing : 45cm (18")
+CapacitÃ© rÃ©servoir : 320 ml
+Ratio mÃ©lange : 40:1 (2.5%)
+Poids 5,6 kg
+Garantie 2 ans assurÃ©e par le rÃ©seau SWAP
+ref 22294
+Dimensions brutes - article emballÃ© (L x l x H)	54x50x32 : 16 Kg
+CaractÃ©ristiques du moteur	Moteur 2 temps Euro II
+Vitesse d'avancement de la chaÃ®ne 16 m/s 
 
-1) La MS211 succède en effet à la MS210, mais je n'en ai encore vendu ni essayé aucune, 
-donc, pas d'opinion. 
-Nèanmoins, la technologie des 4 canaux de transfert + moteur à balayage stratifié + 
-prefiltration d'air semble intéressante (conso, pollution...)
+http://repardurable.com/shop/produit.php?ref=RAC4545PCS
 
-2) Je n'aime pas la MS210 parce qu'on se loupe très facilement le démarrage et on la noie souvent.
-C'est un modèle un peu "le cul entre 2 chaises" 
-(un peu encombrant pour les petits travaux et trop peu puissant pour faire plus gros). 
-J'ai pas mal de retour SAV sur ce modèle.
+Guide 14" = 35cm
 
-3) C = Confort, B = Tendeur de chaîne rapide, E = Ergostart (démarrage facile assisté par ressort)
+------------------------------------
 
-4) Le tendeur rapide va bien (pratique et fiable moyennant un nettoyage fréquent)
+Carburator : JINGKE MP16 - MP16-2W130506
+Pot echapement : modÃ¨le:ZM00356 - ZMER
+Engine Model:1E43F (4500)
+carburetor : MP16 (42-49cc)
+http://www.chinachainsaw.com/sell-2212759-china-high-quality-45cc-gasoline-chainsaw.html#.V0MmNcS5_sk
+https://junangroup.en.alibaba.com/product/818674854-220584322/MP16_42_49cc_carburetor_for_1E43F_engine.html
+https://huashen-carburetor.en.alibaba.com/product/1332649515-220384316/High_quality_MP16_42_49cc_carburetor_for_1E43F_engine.html
 
+JINGKE Carburetor
+Type:2-stroke
+Inlet size:16mm
+Delivery:By Air
+Material Type: alloy
+Item Height: 6.4 cm
+Item Width: 5.1 cm
+Item Diameter: 1.6 cm
+Model Name: Komatsu
+Item Weight: 100 g
 
+Manual ZENOAH - G4521/G4500 G5000
+http://pdfstream.manualsonline.com/c/c00f8cba-b959-4cb8-bda6-f4de27dcc405.pdf
 
-http://www.smaf-touseau.com/fr/tronconneuses-thermiques-polyvalentes/ms-180-tronconneuse-thermique-31-8-cm_16973#produit
-MS180 - 229,00e TTC -> 240,97e avec port
-Cylindrée cm³ 	31,8
-Puissance kW/ch 1,5/2
-Poids kg 1) 	4,3 
-S231 - 439 e TTC avec port
-Cylindrée cm³ 	42,6
-Puissance kW/ch 2,0/2,7
-Poids kg 1) 	4,9 
+PCN-4545
+http://www.magic-parts.co.uk/acatalog/Ryobi-PCN4545.PHP
 
+SG TRC 45/45 Greatland (TRT182284)
+http://www.gardif.fr/fichiers/produit_fichier/660-fiche-produit-sg-trc-45-45-ch-1245cszbo.jpg
+http://www.gardif.fr/index.php?page=produitvue&id=270
+http://www.gardif.fr/index.php?page=produitvue&id=268
 
-http://www.megavert.fr/stihl-viking/fr/tronconneuse-pour-maison-et-jardin/7764-ms-231-stihl-avec-guide-40cm-et-1-chaines-tronconneuse-thermique-0887000000000.html
-MS231 - 430,52 e
-Cylindrée cm³ 	42,6
-Puissance kW/ch 2,0/2,7
-Poids kg 1) 	4,9 
+GTC45
+http://www.bjjsgy.com/images/chainsaw_gtc45-pz20950c2-zea1175.html
+http://data.woodster-sk.sk/garland/servis/gtm/GTC4550.pdf
 
+Parts for all chinese-chainsaw
+https://store.chainsawr.com/collections/chinese-chainsaw-parts
+http://cdn.shopify.com/s/files/1/0032/0472/files/Falcon_5200_Part_List_-_2009.pdf?1873
+----
 
-http://www.motoculturestjean.fr/fiche_vente-echo_cs_310_es_avec_2_chaines_tronconneuse_echo-referenceVEN1285260996.php
-Prix T.T.C. : 330,00 euro
-Promo : 199,00 euro
-http://www.lambin.fr/tronconneuse/tronconneuse-thermique/1755-tronconneuse-thermique-echo-cs310es.html
+Liens utils:
 
+http://fr.wikihow.com/aff%C3%BBter-une-tron%C3%A7onneuse
+https://store.chainsawr.com/blogs/tuning-and-repairs/1126042-adjustment-and-tuning-of-a-chainsaw-carburetor
+http://www.footflyer.com/fix/motor/carburetor/walbro.htm
+http://www.geeksonhome.com/how_5022893_tune-chainsaw-carburetor.html
+http://www.homedepot.com/catalog/pdfImages/6c/6ce59ff6-cc7e-4db9-a11c-54dc75cad02a.pdf
 
-
-
-http://www.megavert.fr/stihl-viking/fr/old/10573-ms-180-35cm-r-mini-tronconneuse-thermique-stihl-livrez-avec-deux-chaines-0886661143399.html
-
-
-logmatic + pneu
-http://laterreneuvane.over-blog.com/article-23422518.html
-Ben en y réfléchissant à l'instant, je crois même que je couplerais bien emploi du sandow et du pneu en même temps
-
------------
-
-
-
+Modification
+http://www.tractorbynet.com/forums/chainsaws/241843-im-looking-limber-14-16-a-4.html
+http://www.tractorbynet.com/forums/chainsaws/217646-just-another-junk-chainsaw.html
+http://www.arboristsite.com/community/threads/echo-341-cs-vids.210702/
+http://www.arboristsite.com/community/threads/dissecting-an-earthquake-chainsaw.214984/
+http://www.arboristsite.com/community/threads/372xp-muffler-mod.124891/
+http://www.arboristsite.com/community/threads/back-in-the-shop-now-whats-on-your-bench.269252/
+http://www.arboristsite.com/community/threads/how-do-you-modify-a-muffler.29394/
+http://firewoodhoardersclub.com/forums/threads/359-with-a-catalytic-muffler-changed-it-out.2683/
+http://firewoodhoardersclub.com/forums/threads/stihl-021-025-ms210-ms250-muffler-mod.9783/
+http://firewoodhoardersclub.com/forums/threads/c-m-t-5200-chinese-chainsaw-review.1292/
+http://www.forestryforum.com/board/index.php?topic=85645.0
+http://209.164.108.37/board/index.php/topic,47753.0.html
