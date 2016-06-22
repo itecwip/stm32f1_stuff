@@ -1,83 +1,50 @@
-http://www.swap-europe.com/
-Marque	RACING
-Gamme	Fardin 
-Modèles	RAC4545PCS 
-Tronçonneuse thermique 45 cm3 Racing RAC4545PCS
-Moteur 2 temps, monocylindre, à refroidissement d'air
-Cylindrée : 45 cm3, 2 kW
-Guide Oregon Racing : 45cm (18")
-Capacité réservoir : 320 ml
-Ratio mélange : 40:1 (2.5%)
-Poids 5,6 kg
-Garantie 2 ans assurée par le réseau SWAP
-ref 22294
-Dimensions brutes - article emballé (L x l x H)	54x50x32 : 16 Kg
-Caractéristiques du moteur	Moteur 2 temps Euro II
-Vitesse d'avancement de la chaîne 16 m/s 
+https://github.com/multiwii/baseflight/tree/master/src
 
-http://repardurable.com/shop/produit.php?ref=RAC4545PCS
+#define PCLK1_FREQ								SYSCLK_FREQ_72MHz / 2
 
-Guide 14" = 35cm
+/**
+ * @brief Set a GPIO pin to 1
+ *
+ * @param gpio GPIOA, GPIOB, GPIOC
+ * @param value GPIO_Pin (Pin_5 | Pin_9 ...)
+ */
+static inline void digitalHi(GPIO_TypeDef *gpio, uint16_t value) {
+	gpio->BSRR = value;
+}
 
-------------------------------------
+/**
+ * @brief Set a GPIO pin to 0
+ *
+ * @param gpio GPIOA, GPIOB, GPIOC
+ * @param value GPIO_Pin (Pin_5 | Pin_9 ...)
+ */
+static inline void digitalLo(GPIO_TypeDef *gpio, uint16_t value) {
+	gpio->BRR = value;
+}
 
-Carburator : JINGKE MP16 - MP16-2W130506
-Pot echapement : modèle:ZM00356 - ZMER
-Engine Model:1E43F (4500)
-carburetor : MP16 (42-49cc)
-http://www.chinachainsaw.com/sell-2212759-china-high-quality-45cc-gasoline-chainsaw.html#.V0MmNcS5_sk
-https://junangroup.en.alibaba.com/product/818674854-220584322/MP16_42_49cc_carburetor_for_1E43F_engine.html
-https://huashen-carburetor.en.alibaba.com/product/1332649515-220384316/High_quality_MP16_42_49cc_carburetor_for_1E43F_engine.html
+/**
+ * @brief toggle a GPIO pin (0->1 or 1->0)
+ *
+ * @param gpio GPIOA, GPIOB, GPIOC
+ * @param value GPIO_Pin (Pin_5 | Pin_9 ...)
+ */
+static inline void digitalToggle(GPIO_TypeDef *gpio, uint16_t value) {
+	gpio->ODR ^= value;
+}
 
-JINGKE Carburetor
-Type:2-stroke
-Inlet size:16mm
-Delivery:By Air
-Material Type: alloy
-Item Height: 6.4 cm
-Item Width: 5.1 cm
-Item Diameter: 1.6 cm
-Model Name: Komatsu
-Item Weight: 100 g
+/**
+ * @brief read GPIO pins selected by value
+ *
+ * @param gpio GPIOA, GPIOB, GPIOC
+ * @param value GPIO_Pin (Pin_5 | Pin_9 ...)
+ */
+static inline uint16_t digitalIn(GPIO_TypeDef *gpio, uint16_t value) {
+	return ((uint16_t)(gpio->IDR & value));
+}
 
-Manual ZENOAH - G4521/G4500 G5000
-http://pdfstream.manualsonline.com/c/c00f8cba-b959-4cb8-bda6-f4de27dcc405.pdf
-
-PCN-4545
-http://www.magic-parts.co.uk/acatalog/Ryobi-PCN4545.PHP
-
-SG TRC 45/45 Greatland (TRT182284)
-http://www.gardif.fr/fichiers/produit_fichier/660-fiche-produit-sg-trc-45-45-ch-1245cszbo.jpg
-http://www.gardif.fr/index.php?page=produitvue&id=270
-http://www.gardif.fr/index.php?page=produitvue&id=268
-
-GTC45
-http://www.bjjsgy.com/images/chainsaw_gtc45-pz20950c2-zea1175.html
-http://data.woodster-sk.sk/garland/servis/gtm/GTC4550.pdf
-
-Parts for all chinese-chainsaw
-https://store.chainsawr.com/collections/chinese-chainsaw-parts
-http://cdn.shopify.com/s/files/1/0032/0472/files/Falcon_5200_Part_List_-_2009.pdf?1873
 ----
 
-Liens utils:
+add NVIC_InitTypeDef to nr_nvic.h
 
-http://fr.wikihow.com/aff%C3%BBter-une-tron%C3%A7onneuse
-https://store.chainsawr.com/blogs/tuning-and-repairs/1126042-adjustment-and-tuning-of-a-chainsaw-carburetor
-http://www.footflyer.com/fix/motor/carburetor/walbro.htm
-http://www.geeksonhome.com/how_5022893_tune-chainsaw-carburetor.html
-http://www.homedepot.com/catalog/pdfImages/6c/6ce59ff6-cc7e-4db9-a11c-54dc75cad02a.pdf
-
-Modification
-http://www.tractorbynet.com/forums/chainsaws/241843-im-looking-limber-14-16-a-4.html
-http://www.tractorbynet.com/forums/chainsaws/217646-just-another-junk-chainsaw.html
-http://www.arboristsite.com/community/threads/echo-341-cs-vids.210702/
-http://www.arboristsite.com/community/threads/dissecting-an-earthquake-chainsaw.214984/
-http://www.arboristsite.com/community/threads/372xp-muffler-mod.124891/
-http://www.arboristsite.com/community/threads/back-in-the-shop-now-whats-on-your-bench.269252/
-http://www.arboristsite.com/community/threads/how-do-you-modify-a-muffler.29394/
-http://firewoodhoardersclub.com/forums/threads/359-with-a-catalytic-muffler-changed-it-out.2683/
-http://firewoodhoardersclub.com/forums/threads/stihl-021-025-ms210-ms250-muffler-mod.9783/
-http://firewoodhoardersclub.com/forums/threads/c-m-t-5200-chinese-chainsaw-review.1292/
-http://www.forestryforum.com/board/index.php?topic=85645.0
-http://209.164.108.37/board/index.php/topic,47753.0.html
+void nr_nvic_init(/*uint32 address, uint32 offset*/);
+void NVIC_Init(NVIC_InitTypeDef* NVIC_InitStruct);
