@@ -107,11 +107,11 @@ http://giveawaytricks.in/install-cyanogenmod-13-leagoo-m5/
 http://www.leagoo.com.my/support/firmware/
 
 
-Screen Size:		5.0"	
+Screen Size:	5.0"	
 OS:		Android 6.0	
 Style:		Touch Screen Phone	
 Brand:		Leagoo	
-Processor Cores:		Quad-core	
+Processor Cores:Quad-core	
 CPU Models:		MT6580A	
 CPU Frequency:		1.3GHz	
 GPU:		mali-400 MP2
