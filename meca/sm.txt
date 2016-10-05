@@ -136,12 +136,12 @@ Camera Functions:		Auto-focusing, LED Flash
 Sensor:		Gravity Sensor, Proximity sensor , Ambient light senor	
 GPS:		GPS, AGPS	
 WiFi:		802.11b/g/n(11M~350M bit/s)	
-Bluetooth:		Bluetooth 4.0	
+Bluetooth:	Bluetooth 4.0	
 Ports:		Micro USB, 3.5mm Audio Jack, TF Card slot	
 Language:		English, Spanish, Italian, Russian, German, French, Hebrew, Hungarian, Greek, Portuguese, Afrikaans, Malay, Indonesian, Catalonian, Czech, Danish, Croatian, Latvian, Lithuanian, Dutch, Polish, Norwegian, Romanian, Romansh, Slovak, Slovenian, Finnish, Swedish, Swahili, Vietnamese, Turkish, Bulgarian, Serbian, Ukrainian, Arabic, Persian, Hindi, Thai, Korean, Japanese, Simplified Chinese, Traditional Chinese, Eesti, Filipino	
 Installed Apps:		Gmail, Audio Player, Google Play Store, Google Maps, Google Navigation, Flashlight, Email, Clock, E-book, Calendar, Calculator, World Clock, Browser, etc.	
 Other Feature:		 Message, VPN, Scheduled Power On & Off, FM Radio, Sound Recorder	
-Video Resolution:		720P	
+Video Resolution:	720P	
 Video Format:		AVI, MP4, MPEG, 3GP, MOV, MKV	
 Audio Format:		FLAC, APE, MKA, M4A, AAC, AMR, OGG, MIDI	
 Picture Format:		JPG, BMP, GIF, PNG	
