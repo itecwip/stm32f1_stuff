@@ -9,7 +9,7 @@ http://g.coquery.free.fr/
 http://cnc25.free.fr/machines/guillaume_coquery_v2/dossier_fraise_courroies.pdf
 
 
-Chutes m�taux
+Chutes métaux
 http://www.qualichutes.com/catalogue.html
 
 Outils
@@ -29,3 +29,65 @@ http://www.instructables.com/id/Laser-Transceiver/?ALLSTEPS
 http://ronja.twibright.com/
 http://ronja.twibright.com/slides/ronja_wsfii.pdf
 http://heli.xbot.es/wp/?p=27
+
+Version du micrologiciel du système et deodeksirovannoy TWRP sur Leagoo M5
+
+Publié le 31 août 2016
+Dans cette vidéo, je l'explique en détail comment mettre firmware deodeksirovannuyu et rekaveri personnalisé téléphone TWRP Leagoo M5.
+Le firmware peut être téléchargé ici: http :? //4pda.ru/forum/index.php S = & sho ...
+
+COMMENTAIRES • 13
+Default photo de profil
+Ajouter un commentaire du public ...
+Top commentaires
+ Michael Balyan
+il y a Michael Balyaev1 mois (édité)
+Un firmware de deodeksirovannaya courir beaucoup plus lent? Et est-il possible d'établir un androïde "nu" 6 sur cet appareil?
+1 Répondre
+ Cyril Atnaguzin
+Il y a Kirill Atnaguzin1 mois
+Cette unité doit vérifier l'interne, donc je ne peux pas dire avec certitude qu'il est réel. S'il y a des gens à mieux comprendre ce cas, ils peuvent faire un firmware officiel du port. Pourtant, dans ce cas, vous avez besoin des sources du noyau, et ainsi de suite de notre modèle.
+répondre
+ dmitry LD
+Il y a dmitry LD1 semaine
+Aide s'il vous plaît mettre rekaveri lors du chargement se produit
+répondre
+ FARKOP590
+Il y a FARKOP5901 mois
+Qu'est-ce qui se passera si vous ne faites pas 900 MHz et 850? de quelque chose qui change?
+répondre
+ Ray Avaray
+il y a des semaines Ray Avaray2
+Merci pour la vidéo utile!
+répondre
+ sashapula
+Il y a la semaine sashapula1
+compagnon tnx .. :)
+répondre
+ aminautegenova
+jours il y a aminautegenova2
+Je vous remercie! Vous avez sauvé ma brique! Retirez les piles et le laisser pour la nuit, quand il a été exposé dagruzhatsya lentement, botte coupé, et a essayé de revenir en arrière quand il a accroché! ponadimav mais à ceux de ses boutons Reload! Dieu vous accorde la santé!
+répondre
+ bigu Nok
+Il y a Bigu Nok1 mois
+bonjour Cyril. Comment flasher une brique pleine du même téléphone? Tous font que vous montrez et nifiga pas courir bande rouge et tout le silence. Il peut se trouver pendant des heures. pilote Signature désactivé. Aucun firmware lui-même ne met pas pas de rekaveri. Aide plz.
+répondre
+ Cyril Atnaguzin
+Il y a Cyril Atnaguzin1 mois
+Bonjour. Essayez de faire comme il est écrit dans ce post: http://4pda.ru/forum/index.php?showtopic=767558&view=findpost&p=52765049
+répondre
+ Leon Blanc
+il y Leon White1 mois
+Krasava
+répondre
+ FARKOP590
+Il y a FARKOP5901 mois
+whatsap -skaniruet Web, mais ne cliquez pas sur le lien (même téléphone uniquement) -qui sait quoi? S'il vous plaît aider.
+répondre
+ Cyril Atnaguzin
+Il y a Cyril Atnaguzin1 mois
+Je ne me WhatsApp, mais je sais au sujet du problème. Sur 4pda à Topeka écrit à ce sujet. Ici, il est nécessaire de tirer les développeurs de WhatsApp'a
+répondre
+ FARKOP590
+Il y a FARKOP5901 mois
+et si le calendrier est une mise à jour de la langue vient du réseau pour la corriger?
